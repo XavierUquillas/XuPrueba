@@ -1,0 +1,34 @@
+Xavier Uquillas Examen
+
+Thunderclient TXT Xusucursal
+
+http://localhost:9006/Xavisucursal/
+http://localhost:9006/Xavisucursal/delete/Artefacta/
+
+{
+    "name": "Artefacta",
+    "numeroEmpleados": 150,
+    "fechaApertura": "2020-05-15",
+    "activa": true
+}
+{
+    "name": "American Express",
+    "numeroEmpleados": 1050,
+    "fechaApertura": "2024-05-15",
+    "activa": false
+}
+
+Thunderclient TXT Xuempresa
+
+http://localhost:9006/Xavierempresa/
+http://localhost:9006/Xavierempresa/delete/Dinners/
+
+{
+    "name": "American Express",
+    "marca": "Pichincha"
+}
+
+{
+    "name": "Dinners",
+    "marca": "Pacifico"
+}
